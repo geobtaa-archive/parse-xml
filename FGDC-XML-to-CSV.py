@@ -79,14 +79,6 @@ for url in portalMetadata:
 		scraped_keywords = keywords
 	except:
 		scraped_keywords = "undefined"
-# 	scraped_placekey = placekeyField.text.encode('utf-8').strip()
-
-# 	description = descriptionField.text.strip(),
-# 	creator = creatorField.text.strip(),
-# 	tags = tagField.text.strip(),
-# 	linksies = links
-
-# 	metadata = metadataLink['href'],
 
 
 	f.writerow([scraped_title,scraped_abstract,scraped_origin,scraped_pubdate,scraped_geom,scraped_west,scraped_east,scraped_north,scraped_south,scraped_format,scraped_keywords])
