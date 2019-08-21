@@ -1,0 +1,211 @@
+Identifier,Title,Description,Originator,Date_Issued,Topic,West,East,North,South,Format,links,keywords
+EDD03888-252B-45B5-84E7-12EF61EDDD46,"Municipalities Eau Claire County, WI 2014","This data layer represents municipalities for Eau Claire County, Wisconsin in 2014. It is a feature class within the geodatabase, EauClaire_Municipalities_2014.gdb.",Eau Claire County Land Information Division,"2014-01-01
+
+
+publication",boundaries,-91.651985,-90.920317,44.858136,44.595247,"File Geodatabase Feature Class
+
+
+10.5",[u'https://gisdata.wisc.edu/public/EauClaire_Municipalities_2014.zip'],"[<keyword>\n<gco:CharacterString>Eau Claire County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Cities and Towns</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+8B401F86-96C2-45B6-9200-E22DA6175A9F,"Zoning Eau Claire County, WI 2011","This data layer represents zoning for Eau Claire County, Wisconsin in 2011. It is a feature class within the geodatabase, EauClaire_Zoning_2011.gdb.",Eau Claire County GIS,"2011-01-01
+
+
+publication",planningCadastre,-91.651985,-90.920317,44.858135,44.595247,"File Geodatabase Feature Class
+
+
+10.5",[u'https://gisdata.wisc.edu/public/EauClaire_Zoning_2011.zip'],"[<keyword>\n<gco:CharacterString>Eau Claire County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Zoning \u2013 Maps, City Planning, County Ordinances</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+34145F27-744B-48D2-B7EB-57700FADCD4A,"Zoning Eau Claire County, WI 2014","This data layer represents zoning for Eau Claire County, Wisconsin in 2014. It is a feature class within the geodatabase, EauClaire_Zoning_2014.gdb.",Eau Claire County GIS,"2014-01-01
+
+
+publication",planningCadastre,-91.651985,-90.920317,44.858135,44.595247,"File Geodatabase Feature Class
+
+
+10.5",[u'https://gisdata.wisc.edu/public/EauClaire_Zoning_2014.zip'],"[<keyword>\n<gco:CharacterString>Eau Claire County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Zoning \u2013 Maps, City Planning, County Ordinances</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+8DA36611-AC56-404A-AD9F-5ADCCEB11C98,"Zoning Eau Claire County, WI 2015","This data layer represents zoning for Eau Claire County, Wisconsin in 2015. It is a feature class within the geodatabase, EauClaire_Zoning_2015.gdb.",Eau Claire Couty GIS,"2015-01-01
+
+
+publication",planningCadastre,-91.651985,-90.920317,44.858135,44.595247,"File Geodatabase Feature Class
+
+
+10.5",[u'https://gisdata.wisc.edu/public/EauClaire_Zoning_2015.zip'],"[<keyword>\n<gco:CharacterString>Eau Claire County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Zoning \u2013 Maps, City Planning, County Ordinances</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+B0E7DA0F-488F-41F0-ADA9-A75CF68259E7,"Zoning Eau Claire County, WI 2016","This data layer represents Zoning for Eau Claire County, Wisconsin in 2016. It is a feature dataset within the geodatabase EauClaire_Zoning_2016.gdb. This feature dataset contains: FARMLAND and GENERAL zoning data.",Eau Claire County GIS,"2016-01-01
+
+
+publication",planningCadastre,-91.657742,-90.918125,44.864224,44.588316,"File Geodatabase Feature Dataset
+
+
+10.5",[u'https://gisdata.wisc.edu/public/EauClaire_Zoning_2016.zip'],"[<keyword>\n<gco:CharacterString>Eau Claire County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Zoning\u2013 Maps, City Planning, County Ordinances</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+C4E7D6AC-D61D-4CE8-9E1B-9CDA3262ED60,"Addresses Green Lake County, WI 2009","This data layer represents Addresses for Green Lake County, Wisconsin in 2009.",Green Lake County Land Use Planning and Zoning Department,"2009-01-01
+
+
+publication",location,-89.251736,-88.764081,44.069442,43.631029,"Shapefile
+
+
+1.0",[u'https://gisdata.wisc.edu/public/GreenLake_Addresses_2009.zip'],"[<keyword>\n<gco:CharacterString>Green Lake County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Point</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Street addresses</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+5C869576-7447-4864-AE7D-0704FFEEEFB6,"Addresses Green Lake County, WI 2012","This data layer represents addresses for Green Lake County, Wisconsin in 2012. Points are located at the access (center of driveway at edge of highway pavement), not on the structures. GLA plaques around Big Green Lake are numbers for the Green Lake Association.",Green Lake County Land Use Planning and Zoning Department,"2012-01-01
+
+
+publication",location,-89.26236,-88.764081,44.069442,43.631029,"Shapefile
+
+
+1.0",[u'https://gisdata.wisc.edu/public/GreenLake_Addresses_2012.zip'],"[<keyword>\n<gco:CharacterString>Green Lake County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Point</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Street addresses</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+6B518FA9-9569-4BE7-B3CB-E38857861D03,"Addresses Green Lake County, WI 2014","This data layer represents addresses for Green Lake County, Wisconsin in 2014. It is a feature class within the geodatabase, GreenLake_Addresses_2014.gdb.",Green Lake County Land Use Planning and Zoning Department,"2014-01-01
+
+
+publication",location,-89.39517,-88.764081,44.069442,43.536578,"File Geodatabase Feature Class
+
+
+10.5",[u'https://gisdata.wisc.edu/public/GreenLake_Addresses_2014.zip'],"[<keyword>\n<gco:CharacterString>Green Lake County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Point</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Street addresses</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+75E8437B-5784-4870-8F4E-A9BA793AD513,"Addresses Green Lake County, WI 2015","This data layer represents addresses for Green Lake County, Wisconsin in 2015.",Green Lake County Land Use Planning and Zoning Department,"2015-01-01
+
+
+publication",location,-89.39517,-88.764081,44.069442,43.536578,"Shapefile
+
+
+1.0",[u'https://gisdata.wisc.edu/public/GreenLake_Addresses_2015.zip'],"[<keyword>\n<gco:CharacterString>Green Lake County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Point</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Street addresses</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+A25E4395-4CFD-4214-A86B-5A96DBF4B7AC,"Municipalities Green Lake County, WI 2009","This data layer represents municipalities for Green Lake County, Wisconsin in 2009.",Green Lake County Land Use Planning and Zoning Department,"2009-01-01
+
+
+publication",boundaries,-89.24704,-88.76403,44.06958,43.630885,"Shapefile
+
+
+1.0",[u'https://gisdata.wisc.edu/public/GreenLake_Municipalities_2009.zip'],"[<keyword>\n<gco:CharacterString>Green Lake County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Cities and Towns</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+AD8F5F27-E439-41EB-AF6A-FB5D3B1A4AC8,"Municipalities Green Lake County, WI 2012","This polygon data layer represents municipalities for Green Lake County, Wisconsin in 2012. Highways have a width from the centerline out each direction to a right-of-way line. Municipalities have legal written descriptions that may follow the centerline, or the right-of-way line. Municipalities may also have boundary lines that follow the centerline, or either bank of a body of water.",Green Lake County Land Use Planning and Zoning Department,"2012-01-01
+
+
+publication",boundaries,-89.24704,-88.764019,44.06958,43.630885,"Shapefile
+
+
+1.0",[u'https://gisdata.wisc.edu/public/GreenLake_Municipalities_2012.zip'],"[<keyword>\n<gco:CharacterString>Green Lake County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Cities and Towns</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+A13025FF-0FB7-46EB-966F-647F45A5D196,"Municipalities Green Lake County, WI 2014","This data layer represents municipalities for Green Lake County, Wisconsin in 2014. It is a feature class within the geodatabase, GreenLake_Municipalities_2014.gdb.",Green Lake County Land Use Planning and Zoning Department,"2014-01-01
+
+
+publication",boundaries,-89.24704,-88.764019,44.06958,43.630885,"File Geodatabase Feature Class
+
+
+10.5",[u'https://gisdata.wisc.edu/public/GreenLake_Municipalities_2014.zip'],"[<keyword>\n<gco:CharacterString>Green Lake County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Cities and Towns</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+34EB9FCD-7286-4CB6-A1AA-9039D45A031B,"Municipalities Green Lake County, WI 2015","This data layer represents municipalities for Green Lake County, Wisconsin in 2015.",Green Lake County Land Use Planning and Zoning Department,"2015-01-01
+
+
+publication",boundaries,-89.245612,-88.883501,43.983869,43.631315,"Shapefile
+
+
+1.0",[u'https://gisdata.wisc.edu/public/GreenLake_Municipalities_2015.zip'],"[<keyword>\n<gco:CharacterString>Green Lake County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Cities and Towns</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+50CFE1BD-3E04-4C1A-AC0C-0A06E44EFBE8,"Zoning Green Lake County, WI 2014","This data layer represents zoning for Green Lake County, Wisconsin in 2014. It is a feature class within the geodatabase, GreenLake_Zoning_2014.gdb.",Green Lake County Land Use Planning and Zoning Department,"2014-01-01
+
+
+publication",planningCadastre,-89.245463,-88.883554,43.998408,43.63254,"File Geodatabase Feature Class
+
+
+10.5",[u'https://gisdata.wisc.edu/public/GreenLake_Zoning_2014.zip'],"[<keyword>\n<gco:CharacterString>Green Lake County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Zoning--Maps, City planning, County ordinances</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+C78B46BD-0B90-4E51-9F94-0C4701786096,"Addresses Marinette County, WI 2014","This data layer represents addresses for Marinette County, Wisconsin in 2014. [The Structural Zone Map provides structural mapping and predefined compartments or zones for the Towns of Amberg, Athelstane, Beaver, Beecher, Dunbar, Goodman, Niagara, Pembine, Silver Cliff, Stephenson and Wausaukee, and the Village of Crivitz, all located in Marinette County, Wisconsin. These compartments were created to coordinate the emergency efforts in order to ensure emergency services are not duplicated or areas are not omitted from coverage. This document was created and the data compiled by the Marinette County Land Information Department in the spring of 2005 with the assistance from the Wisconsin Department of Natural Resources. Updates were completed in 2007 and 2009. Project funding was received from the State of Wisconsin Department of Natural Resources Division of Forestry. For more information contact the Marinette County Land Information Department at (715) 732-7535.]",Marinette County Land Information Office,"2014-01-01
+
+
+publication",location,-88.429574,-87.586537,45.791915,44.965054,"Shapefile
+
+
+1.0",[u'https://gisdata.wisc.edu/public/Marinette_Addresses_2014.zip'],"[<keyword>\n<gco:CharacterString>Marinette County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Point</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Street Addresses</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+ABB8FD26-E591-4D54-AB67-99B6BC35C75D,"Addresses Marinette County, WI 2015","This data layer represents addresses for Marinette County, Wisconsin in 2015. [The Structural Zone Map provides structural mapping and predefined compartments or zones for the Towns of Amberg, Athelstane, Beaver, Beecher, Dunbar, Goodman, Niagara, Pembine, Silver Cliff, Stephenson and Wausaukee, and the Village of Crivitz, all located in Marinette County, Wisconsin. These compartments were created to coordinate the emergency efforts in order to ensure emergency services are not duplicated or areas are not omitted from coverage. This document was created and the data compiled by the Marinette County Land Information Department in the spring of 2005 with the assistance from the Wisconsin Department of Natural Resources. Updates were completed in 2007 and 2009. Project funding was received from the State of Wisconsin Department of Natural Resources Division of Forestry. For more information contact the Marinette County Land Information Department at (715) 732-7535.]",Marinette County Land Information Office,"2015-01-01
+
+
+publication",location,-88.429574,-87.586537,45.791915,44.965054,"Shapefile
+
+
+1.0",[u'https://gisdata.wisc.edu/public/Marinette_Addresses_2015.zip'],"[<keyword>\n<gco:CharacterString>Marinette County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Point</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Street Addresses</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+86DD832C-147A-477B-AB0F-D17BB72BE768,"Buildings Marinette County, WI 2016","This data layer represents buildings for Marinette County, Wisconsin in 2016. [The Structural Zone Map provides structural mapping and predefined compartments or zones for the Towns of Amberg, Athelstane, Beaver, Beecher, Dunbar, Goodman, Niagara, Pembine, Silver Cliff, Stephenson and Wausaukee, and the Village of Crivitz, all located in Marinette County, Wisconsin. These compartments were created to coordinate the emergency efforts in order to ensure emergency services are not duplicated or areas are not omitted from coverage. This document was created and the data compiled by the Marinette County Land Information Department in the spring of 2005 with the assistance from the Wisconsin Department of Natural Resources. Updates were completed in 2007 and 2009. Project funding was received from the State of Wisconsin Department of Natural Resources Division of Forestry. For more information contact the Marinette County Land Information Department at (715) 732-7535.]",Marinette County Land Information Office,"2016-01-01
+
+
+publication",structure,-88.429574,-87.586537,45.791915,44.965054,"Shapefile
+
+
+1.0",[u'https://gisdata.wisc.edu/public/Marinette_Buildings_2016.zip'],"[<keyword>\n<gco:CharacterString>Marinette County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Point</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Buildings, Structures</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+0C317E88-8673-425A-99E9-26E2684344D1,"Hydro (Polygon and Line) Marinette County, WI 2014","These data layers represent hydrography for Marinette County, Wisconsin in 2014. It is a feature class within the geodatabase ""Marinette_Hydro_2014.gdb"". The feature layers included in this geodatabase are ""Marinette_HydroLine_2014"" and ""Marinette_HydroPoly_2014"". [The hydroarc shapefile represents the lakes, ponds, rivers and streams in Marinette County, Wisconsin. Data is referenced to the Marinette County Coordinate System, North American Datum 1983 with the 1991 adjustment (NAD83/91).]",Marinette County Land Information Office,"2014-01-01
+
+
+publication",inlandWaters,-88.436636,-87.469043,45.797615,44.933548,"File Geodatabase Feature Dataset
+
+
+10.5",[u'https://gisdata.wisc.edu/public/Marinette_Hydro_2014.zip'],"[<keyword>\n<gco:CharacterString>Marinette County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Hydrography</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+E585F526-891F-48A7-932C-A666F54F169C,"Hydro (Polygon and Line) Marinette County, WI 2015","These data layers represent hydrography for Marinette County, Wisconsin in 2015. It is a feature class within the geodatabase ""Marinette_Hydro_2015.gdb"". The feature layers included in this geodatabase are ""Marinette_HydroLine_2015"" and ""Marinette_HydroPoly_2015"". [The hydroarc shapefile represents the lakes, ponds, rivers and streams in Marinette County, Wisconsin. Data is referenced to the Marinette County Coordinate System, North American Datum 1983 with the 1991 adjustment (NAD83/91).]",Marinette County Land Information Office,"2015-01-01
+
+
+publication",inlandWaters,-88.436636,-87.469043,45.797615,44.933548,"File Geodatabase Feature Dataset
+
+
+10.5",[u'https://gisdata.wisc.edu/public/Marinette_Hydro_2015.zip'],"[<keyword>\n<gco:CharacterString>Marinette County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Hydrography</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+FE38F53C-0562-4B73-A1B2-B5D0527601FE,"Hydro (Polygon and Line) Marinette County, WI 2016","These data layers represent hydrography for Marinette County, Wisconsin in 2016. It is a feature class within the geodatabase ""Marinette_Hydro_2016.gdb"". The feature layers included in this geodatabase are ""Marinette_HydroLine_2016"" and ""Marinette_HydroPoly_2016"".[The HydroPoly_2016 shapefile represents the lakes, ponds, rivers and streams in Marinette County, Wisconsin. Data is referenced to the Marinette County Coordinate System, North American Datum 1983 with the 1991 adjustment (NAD83/91).The original source data, Wisconsin DNR 24K Hydrography (Version 1), was obtained from the WIDNR as a shapefile referenced to WTM 83-91. The shapefile was then projected to the Marinette County Coordinate System. At this point, the attribute table was modified and changed to the current configuration. Features were combined using the WBIC as the unique identifier. Using acquired Digital Orthophoto Quadrangles (DOQ's) as a backdrop, the alignment of the waterbodies were modified (heads up digitized) to correspond to the DOQ's and updated using WROC orthoa (2010 and 2015) and 2015 FEMA LiDar data. (DOQ horizontal position accuracy reported to meet National Map Accuracy Standards (NMAS) for 1:12,000 scale products.) Topology between HydroArc and HydroPoly will exist after all editing is complete. As with all public information derived from variable sources, this data may contain errors or faults. Therefore, Marinette County does not provide any warranty, express or implied, that this data is absolutely accurate. If the recipient has any doubts as to the accuracy of this data, the recipient is advised to make an independent investigation or verification. If an error is found, please notify the Land Information Office as soon as possible. Item NameTypeDecDescriptionShapeOBJECTIDIWBP_NAMECName (WI DNR)WBP_POLY_TCPolygon type code: BA = Backwater, DC = Ditch or canal, IS = Island, LP = Lake or pond, RF = Reservoir or flowage, ST = Double-line stream and SD = Sewage disposal pond or filtration beds..WBP_WBICIThe Water Body ID Code (WBIC) of the polygon. WBIC’s from the DNR’s Register of Waterbodies (ROW) database.WBP_ORIGINCOrigin of data: 11=Digitized using DOQQ’s, 44 Approximate location from DOQQ’s and 98 or 99=Wisconsin DNR 24K Hydrography (Version 1).WBP_DATEDDate record was edited.WBP_POLYIDIUnique ID.Shape_LenDPerimeter (US survey feet).Shape_AreaDArea (square feet)(Item NameTypeDecDescriptionShapeOBJECTIDIWBA_WBICIThe Water Body ID Code (WBIC) of the arc. WBIC’s from the DNR’s Register of Waterbodies (ROW) database.WBA_NAMECWBA_LINETYCLinear hydrographic type code: BK = Bank or Shoreline, CL = Stream centerline, EX = Stream extension, FP = Flow potential, ST = Single-line stream, WG = Wetland gap connector and XX = Closure line.WBA_DURATICCode indicates the span of time in which features contain water: FX = Fluctuating, IT = Intermittent, NA = Not applicable and PN = Perennial.WBA_CARTOCCartographic representation code: Y1 = major stream/river, Y2 = minor stream/river, Y3 = intermittent, Y4 = bank and NO = do not show.WBA_ORIGINCOrigin of data: 11=Digitized using DOQQ’s, 44 Approximate location from DOQQ’s and 98 or 99=Wisconsin DNR 24K Hydrography (Version 1).WBA_DATEDDate record was edited.WBA_ARCIDIUnique ID.FIELD_VERCVerification for future buffer.Shape_LenDLength of arc (US survey feet).]",Marinette County Land Information Office. [WI DNR.],"2016-01-01
+
+
+publication",inlandWaters,-88.436636,-87.469043,45.797615,44.933548,"File Geodatabase Feature Dataset
+
+
+10.5",[u'https://gisdata.wisc.edu/public/Marinette_Hydro_2016.zip'],"[<keyword>\n<gco:CharacterString>Marinette County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Hydrography</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+C372814B-6348-49FA-81FD-0054A41EF3C1,"Municipalities Marinette County, WI 2014","This data layer represents municipalities for Marinette County, Wisconsin in 2014. [The municipal boundary feature class represents the civil/municipal boundaries in Marinette County, Wisconsin. Data is referenced to the Marinette County Coordinate System, North American Datum 1983 with the 1991 adjustment (NAD83/91).]",Marinette County Land Information Office,"2014-01-01
+
+
+publication",boundaries,-88.433421,-87.487301,45.796011,44.963868,"Shapefile
+
+
+1.0",[u'https://gisdata.wisc.edu/public/Marinette_Municipalities_2014.zip'],"[<keyword>\n<gco:CharacterString>Marinette County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Cities and Towns</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+E567019F-BAB6-4DEA-9DB4-4F37642487B4,"Municipalities Marinette County, WI 2015","This data layer represents municipalities for Marinette County, Wisconsin in 2015. [The municipal boundary feature class represents the civil/municipal boundaries in Marinette County, Wisconsin. Data is referenced to the Marinette County Coordinate System, North American Datum 1983 with the 1991 adjustment (NAD83/91).]",Marinette County Land Information Office,"2015-01-01
+
+
+publication",boundaries,-88.433421,-87.487301,45.796011,44.963868,"Shapefile
+
+
+1.0",[u'https://gisdata.wisc.edu/public/Marinette_Municipalities_2015.zip'],"[<keyword>\n<gco:CharacterString>Marinette County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Cities and Towns</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+C3FFCC74-D425-4C9E-AD72-DC3334A73FAE,"Parcels Marinette County, WI 2012","This data layer represents parcels for Marinette County, Wisconsin in 2012. [PRELIMINARY DATA. The goal of this parcel mapping project was to digitally map all parcels in Marinette County. Maps are created and maintained in an AutoCad environment by District. This data set is a combination of all the individual district files. A parcel shapefile will be periodically created for use in the GIS. Parcels are mapped in the Marinette County Coordinate System. Parcels in Amberg, Beecher, Dunbar, Niagara, Pembine, Silver Cliff, Stephenson and Wausaukee are PRELIMINARY (Quality control is not complete). Amberg - See Property Listing for parcels 2-1740 and 2-1741. The parcels are on the tax roll but the boundaries are not mapped. Beecher - See Property Listing for the following listed ""Flowage"" parcels: 8-958.1, 8-963.1, 8-966.1, 8-972, 8-999.1, 8-1007.1, 8-1008.1, 8-1009.1, 8-1027.1, 8-1028.1, 8-1042.1, 8-1311.1, 8-1312.1, 8-1339, 8-1349 and 8-1350.1. The parcels are on the tax roll, but the parcel boundaries are not mapped. Goodman - Lake Hilbert Condominium is delineated by Condo 40012. The parcel numbers range from 12-2460 to 12-2461. Lake - Mohawk Condominiums is delineated by Condo 40016. The parcel numbers range from 16-1493 to 16-1528. Niagara - See Property Listing for the following listed ""overflowed"" parcels: 20-401.3 & 20-1101.3. The parcels are on the tax roll, but the parcel boundaries are not mapped. Pembine - See Property Listing for parcel 22-1321.1. The parcel is on the tax roll, but the boundaries are not mapped. Porterfield - See Property Listing for the following listed ""overflowed"" parcels: 26-588, 26-590, 26-592, 26-594, 26-596, 26-598, 26-728, 26-729 & 26-915.1. The parcels are on the tax roll, but the parcel boundaries are not mapped. Silver Cliff - See Property Listing for parcel 30-1651.1. The parcel is on the tax roll, but the boundaries are not mapped. Peshtigo Partners Condominium is delineated by Condo 40009. The parcel numbers range from 30-2604 to 30-2605. Stephenson - See Property Listing for parcels 32-1961.3, 32-1839.1, 32-1870.2, 32-1906.1, 32-2318.1, 32-2318.2, 32-2710.1, 32-2818.1 and 32-3008.1. The parcels are on the tax roll, but the boundaries are not mapped. Peshtigo River Condominiums is delineated by Condo 40007. The parcel numbers range from 32-6970 to 32-6985. Juul Lake Condo is delineated by Condo 40011. The parcel numbers range from 32-6986 to 32-6991. Wausaukee - See Property Listing for 36-1305. The parcel is on the tax roll, but the boundaries are not mapped. Village of Coleman - See Property Listing for the following listed leased parcels: 111-619.1, 111-639, 111-640.1, 111-644, 111-645, 111-852, 111-853 & 111-855. The parcels are on the tax roll, but the parcel boundaries are not mapped. Cougar Plaza Condominium is delineated by Condo 40014. The parcel numbers range from 111-1423 to 111-1430. Village of Wausaukee - See Property Listing for the following listed leased parcels: 191-612, 191-612.1 & 191-612.2. The parcels are on the tax roll, but the parcel boundaries are not mapped. City of Marinette - Shore Drive Condominium is delineated by Condo 40001. The parcel numbers range from 251-7011 to 251-7020. Heron Bay Condominium is delineated by Condo 40002. Midtown Condominium is delineated by Condo 40003. The parcel number is 251-7021. Pine Beach Club Condominium is delineated by Condo 40004. The parcel numbers range from 251-7057 to 251-8009. Aerial Condominium is delineated by Condo 40005. The parcel numbers range from 251-8010 to 251-8011. North Bay Professional Park Condominium is delineated by Condo 40006. The parcel numbers range from 251-8022 to 251-8025. Eagles Cove Condominium is delineated by Condo 40008. The parcel numbers range from 251-8159 to 32-8170. Harbor Terrace Condominiums is delineated by Condo 40013. The parcel numbers range from 251-8171 to 251-8184. City of Peshtigo - Peshtigo River Estates Condominium is delineated by Condo 40010. The parcel numbers range from 271-2559 to 271-2572. Peshtigo Marinette Plaza Condominium is delineated by Condo 40015. The parcel numbers range from 271-2571 to 271-2572. Assessment and tax data are from 2011.]",Marinette County Land Information Office,"2012-01-01
+
+
+publication",planningCadastre,-88.433416,-87.487902,45.7956,44.963175,"Shapefile
+
+
+1.0",[u'https://gisdata.wisc.edu/public/Marinette_Parcels_2012.zip'],"[<keyword>\n<gco:CharacterString>Marinette County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Real Property, Property Boundary Maps, Plat</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+1DC70A2B-765A-4172-B415-617D2882B179,"Parcels Marinette County, WI 2014","This data layer represents parcels for Marinette County, Wisconsin in 2014.",Marinette County Land Information Office,"2014-01-01
+
+
+publication",planningCadastre,-88.433416,-87.487902,45.7956,44.963175,"Shapefile
+
+
+1.0",[u'https://gisdata.wisc.edu/public/Marinette_Parcels_2014.zip'],"[<keyword>\n<gco:CharacterString>Marinette County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Real Property, Property Boundary Maps, Plat</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+D9500275-FC0A-41CD-8443-BD79EBB018A9,"Parcels Marinette County, WI 2015","This data layer represents parcels for Marinette County, Wisconsin in 2015.",Marinette County Land Information Office,"2015-01-01
+
+
+publication",planningCadastre,-88.433416,-87.487902,45.7956,44.963175,"Shapefile
+
+
+1.0",[u'https://gisdata.wisc.edu/public/Marinette_Parcels_2015.zip'],"[<keyword>\n<gco:CharacterString>Marinette County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Real Property, Property Boundary Maps, Plat</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+BB43DE94-25BD-4A81-86EE-9BDDC9282427,"Parcels Marinette County, WI 2016","This data layer represents parcels for Marinette County, Wisconsin in 2016. It is a feature class within the geodatabase, ""Marinette_Parcels_2016.gdb"".",Marinette County Land Information Office,"2016-01-01
+
+
+publication",planningCadastre,-88.445794,-87.458268,45.802,44.959833,"File Geodatabase Feature Class
+
+
+10.5",[u'https://gisdata.wisc.edu/public/Marinette_Parcels_2016.zip'],"[<keyword>\n<gco:CharacterString>Marinette County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Real Property, Property Boundary Maps, Plat</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+14679EC0-3AE4-4C18-BA12-426647F8C69E,"Parks Marinette County, WI 2016","These data layers represent parks for Marinette County, Wisconsin in 2016. It is a feature class within the geodatabase ""Marinette_Parks_2016.gdb"". The features included in this geodatabse include ""County_Parks_Poly_06_28_2016.shp"" and ""Park_Pnts_06_28_2016.shp"".",Marinette County Land Information Office,"2016-01-01
+
+
+publication",society,-88.402756,-87.586559,45.708416,45.037987,"File Geodatabase Feature Dataset
+
+
+10.5",[u'https://gisdata.wisc.edu/public/Marinette_Parks_2016.zip'],"[<keyword>\n<gco:CharacterString>Marinette County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Parks; Open Spaces; Recreation</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+091BC7D7-F05D-43E3-BA2C-1A99B942FEA0,"Roads Marinette County, WI 2014","This data layer represents roads for Marinette County, Wisconsin in 2014.",Marinette County Land Information Office,"2014-01-01
+
+
+publication",transportation,-88.432094,-87.587026,45.794202,44.964308,"Shapefile
+
+
+1.0",[u'https://gisdata.wisc.edu/public/Marinette_Roads_2014.zip'],"[<keyword>\n<gco:CharacterString>Marinette County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Line</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Roads, Streets, Transportation</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+237D6617-0F8F-4369-BB0C-9B6D83647D52,"Roads Marinette County, WI 2015","This data layer represents roads for Marinette County, Wisconsin in 2015. [This data layer is a cenerline Personal Geodatabase Feature Class of the roads in Marinette County. Data is referenced to the Marinette County Coordinate System, North American Datum 1983 with the 1991 adjustment (NAD83/91).]",Marinette County Land Information Office,"2015-01-01
+
+
+publication",transportation,-88.432094,-87.587026,45.794202,44.964308,"Shapefile
+
+
+1.0",[u'https://gisdata.wisc.edu/public/Marinette_Roads_2015.zip'],"[<keyword>\n<gco:CharacterString>Marinette County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Line</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Roads, Streets, Transportation</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+0C002536-C8A9-4DA1-85D8-C94CDF880FA3,"Roads Marinette County, WI 2016","This data layer represents roads for Marinette County, Wisconsin in 2016. [This data layer is a centerline Personal Geodatabase Feature Class of the roads in Marinette County. Data is referenced to the Marinette County Coordinate System, North American Datum 1983 with the 1991 adjustment (NAD83/91). The original source data, Tiger Line Files from the U.S. Census Bureau, was obtained from OLIS as a shapefile referenced to WTM 83-91. The shapefile was then projected to the Marinette County Coordinate System. At this point, the attribute table was modified and changed to the current configuration. Using acquired Digital Orthophoto Quadrangles (DOQ's) as a backdrop, the alignment of the roads were modified (heads up digitized) to correspond to the DOQ's. During this stage, roads were modified, added or deleted based on source information. Road data also includes centerline data from GPS (Trimble Pro-XR, resource grade) and CAD parcel maps. Alignment adjusted based on orthos flown in 2004, 2010 and 2015. Road names were compared to source information and checked for accuracy and completeness. Source information includes, but is not limited to; Wisconsin Department of Transportation Town Plat Records, Marinette County Property Listing Office, Plats and CSM's recorded in the Marinette County Register of Deeds Office, survey maps filed in Marinette County Surveyors Office and Local/Town Government Officials. After the location and names were verified, the shapefile was converted to an Arc/Info coverage. The centerlines were then converted to a feature class in the personal geoadatabase in November, 2005. The data will be maintained in the geodatabase format. As with all public information derived from variable sources, this data may contain errors or faults. Therefore, Marinette County does not provide any warranty, express or implied, that this data is absolutely accurate. If the recipient has any doubts as to the accuracy of this data, the recipient is advised to make an independent investigation or verification. If an error is found, please notify the Land Information Office as soon as possible.]","Marinette County Land Information Office. [US Census, Marinette County Land Information Department.]","2016-01-01
+
+
+publication",transportation,-88.432094,-87.587026,45.794202,44.964308,"Shapefile
+
+
+1.0",[u'https://gisdata.wisc.edu/public/Marinette_Roads_2016.zip'],"[<keyword>\n<gco:CharacterString>Marinette County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Line</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Roads, Streets, Transportation</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"

@@ -8,10 +8,10 @@ from bs4 import BeautifulSoup
 
 portalMetadata = []
 
-f = csv.writer(open('05a-01_results.csv', 'w'))
-f.writerow(['Title','Description','Originator','Date_Issued','Geom_type','West','East','North','South','Format','Thumbnail','Keywords'])
+f = csv.writer(open('nhgis_results2.csv', 'w'))
+f.writerow(['Title','Description','Originator','Date_Issued','Geom_type','West','East','North','South','Format','Keywords'])
 
-with open('05a-01.csv','r') as harvest:
+with open('nhgis.csv','r') as harvest:
     urls = csv.reader(harvest)
     for url in urls:
         portalMetadata.append(url)
@@ -31,7 +31,6 @@ for url in portalMetadata:
 	northField = soup.find('northbc')
 	southField = soup.find('southbc')
 	formatField = soup.find('native')
-	thumbField = soup.find('browsen')
 	keywords = []
 	for word in soup.find_all('themekey'):
 		keywords.append(word.contents[0])
@@ -80,13 +79,9 @@ for url in portalMetadata:
 		scraped_keywords = keywords
 	except:
 		scraped_keywords = "undefined"
-	try:
-		scraped_thumb = thumbField.text.strip()
-	except:
-		scraped_thumb = "undefined"
 
 
-	f.writerow([scraped_title,scraped_abstract,scraped_origin,scraped_pubdate,scraped_geom,scraped_west,scraped_east,scraped_north,scraped_south,scraped_format,scraped_thumb,scraped_keywords])
+	f.writerow([scraped_title,scraped_abstract,scraped_origin,scraped_pubdate,scraped_geom,scraped_west,scraped_east,scraped_north,scraped_south,scraped_format,scraped_keywords])
 
 
 

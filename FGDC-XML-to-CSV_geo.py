@@ -8,10 +8,10 @@ from bs4 import BeautifulSoup
 
 portalMetadata = []
 
-f = csv.writer(open('05a-01_results.csv', 'w'))
+f = csv.writer(open('nhgis_results.csv', 'w'))
 f.writerow(['Title','Description','Originator','Date_Issued','Geom_type','West','East','North','South','Format','Thumbnail','Keywords'])
 
-with open('05a-01.csv','r') as harvest:
+with open('nhgis.csv','r') as harvest:
     urls = csv.reader(harvest)
     for url in urls:
         portalMetadata.append(url)

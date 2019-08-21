@@ -1,0 +1,22 @@
+Identifier,Title,Description,Originator,Date_Issued,Topic,West,East,North,South,Format,links,keywords
+gov.noaa.nodc.ncddc.file:/Users/majew030/Documents/WisconsinSubmissions/FGDC/FGDC-Florence_PLSS_2019,"PLSS Florence County, WI 2019","This data represents Public Land Survey System (PLSS) corners for Florence County, Wisconsin in 2019.[Data created using field gathered data and information provided through Florence County, Wisconsin Register of Deeds research.Direct Observation points were created from actual survey point data or from coordinates listed on recorded Certified Survey Maps (CSM).Calculated points were established by bearings and distances shown on numerous CSMs when tied to known corner locations.]",Florence County Land Information Department,"2019-03-27
+
+
+publication",planningCadastre,-88.690354,-88.049143,46.013368,45.713089,"Geodatabase
+
+
+10.3",[u'https://gisdata.wisc.edu/public/Florence_PLSS_2019.zip'],"[<gmd:keyword>\n<gco:CharacterString>Point</gco:CharacterString>\n</gmd:keyword>, <gmd:keyword>\n<gco:CharacterString>Surveying\u2014Public lands</gco:CharacterString>\n</gmd:keyword>, <gmd:keyword>\n<gco:CharacterString>Florence County</gco:CharacterString>\n</gmd:keyword>, <gmd:keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</gmd:keyword>]"
+gov.noaa.nodc.ncddc.file:/Users/majew030/Documents/WisconsinSubmissions/FGDC/FGDC-Vilas_PLSS_2018,"PLSS Vilas County, WI 2018","This data layer represents public land survey system (PLSS) corners for Vilas County, Wisconsin in 2018. [The current control point on the surface of the earth and its associated current coordinate value, generally determined by a surveying process and used to define an extremity of a boundary.]",Vilas County Land Information and Mapping Department,"2019-03-06
+
+
+publication",planningCadastre,-90.056653,-88.929643,46.307262,45.832357,"ESRI Geodatabase
+
+
+10.3","[u'https://gisdata.wisc.edu/public/Vilas_PLSS_2018.zip', u'https://maps.vilascountywi.gov/data.html']","[<gmd:keyword>\n<gco:CharacterString>Point</gco:CharacterString>\n</gmd:keyword>, <gmd:keyword>\n<gco:CharacterString>Surveying - Public Lands</gco:CharacterString>\n</gmd:keyword>, <gmd:keyword>\n<gco:CharacterString>PLSS: Public Land Survey System</gco:CharacterString>\n</gmd:keyword>, <gmd:keyword>\n<gco:CharacterString>Vilas County</gco:CharacterString>\n</gmd:keyword>, <gmd:keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</gmd:keyword>]"
+1BD818D7-C878-4175-9BE0-DDE46EB80504,"Municipalities Waukesha County, WI 2018","This data layer represents municipalities for Waukesha County, Wisconsin in 2018.",Waukesha County Land Information System,"2019-02-25
+
+
+publication",boundaries,-88.671705,-87.93948,43.32357,42.773677,"Shapefile
+
+
+1.0",[u'http://maps-waukeshacounty.opendata.arcgis.com/'],"[<keyword>\n<gco:CharacterString>Waukesha County</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Cities and Towns</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"

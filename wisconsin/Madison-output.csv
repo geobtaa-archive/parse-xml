@@ -1,0 +1,134 @@
+Identifier,Title,Description,Originator,Date_Issued,Topic,West,East,North,South,Format,links,keywords
+431C19A0-196B-40CD-8FE1-77DE5B8832F4,"Aldermanic Districts City of Madison, WI 2017","This data layer represents aldermanic district boundaries for the City of Madison, Wisconsin in 2017.",City of Madison Clerk's Office,"2017-09-07
+
+
+publication",boundaries,-89.571341,-89.24678,43.17202,42.998147,"Shapefile
+
+
+1.0","[u'https://gisdata.wisc.edu/public/Madison_City_AldermanicDist_2017.zip', u'https://data-cityofmadison.opendata.arcgis.com/']","[<keyword>\n<gco:CharacterString>City of Madison</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Administrative and political divisions</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+863B48EE-C093-4720-A84E-1C024E261833,"Bike Boxes City of Madison, WI 2018","This data layer represents bike boxes for the City of Madison, Wisconsin in 2018. A bike box is a designated area at the head of a traffic lane at a signalized intersection that provides bicyclists with a safe and visible way to get ahead of queuing traffic during the red signal phase.",City of Madison - Metropolitan Planning Organization (MPO),"2018-04-16
+
+
+publication",society,-89.414085,-89.330371,43.120069,43.07093,"Shapefile
+
+
+1.0","[u'https://gisdata.wisc.edu/public/Madison_City_Bike_Boxes_2018.zip', u'https://data-cityofmadison.opendata.arcgis.com/']","[<keyword>\n<gco:CharacterString>City of Madison</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Point</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Bicycles--Safety measures</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+5D62D146-9B72-4305-BFEF-7E9CE1664524,"Bike Hazards City of Madison, WI 2018","This data layer represents bike hazard locations for the City of Madison, Wisconsin in 2018.",City of Madison - Metropolitan Planning Organization (MPO),"2018-04-16
+
+
+publication",society,-89.79418,-89.058099,43.252671,42.858538,"Shapefile
+
+
+1.0","[u'https://gisdata.wisc.edu/public/Madison_City_Bike_Hazards_2018.zip', u'https://data-cityofmadison.opendata.arcgis.com/']","[<keyword>\n<gco:CharacterString>City of Madison</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Point</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Bicycles--Safety measures</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+AED013D4-A8A6-4E0A-A985-43313E31E34A,"Bike Share Stations City of Madison, WI 2017","This data layer represents bike share station locations for the City of Madison, Wisconsin in 2017.",City of Madison - Metropolitan Planning Organization (MPO),"2017-02-06
+
+
+creation",society,-89.469026,-89.330738,43.121279,43.047215,"Shapefile
+
+
+1.0","[u'https://gisdata.wisc.edu/public/Madison_City_BikeShare_Stations_2017.zip', u'https://data-cityofmadison.opendata.arcgis.com/']","[<keyword>\n<gco:CharacterString>City of Madison</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Point</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Bicycle sharing programs</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+4A91FAE6-EAC9-470D-87A2-59F20078B389,"Biking & Walking Paths City of Madison, 2017","This data layer represents city-maintained biking and walking paths for the City of Madison, Wisconsin in 2017.",City of Madison,"2017-02-06
+
+
+creation",transportation,-89.561794,-89.256849,43.164802,43.001491,"Shapefile
+
+
+1.0","[u'https://gisdata.wisc.edu/public/Madison_City_BikeWalk_Paths_2017.zip', u'https://data-cityofmadison.opendata.arcgis.com/']","[<keyword>\n<gco:CharacterString>City of Madison</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Line</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Bicycle paths, Bikeways, Cycle routes, trails</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+99C461A7-3011-4788-89F1-855BB5DEFADB,"Fire Stations City of Madison, WI 2017","This data layer represents fire station locations for the City of Madison, Wisconsin in 2017. [Locations of City of Madison Fire Stations]",City of Madison,"2017-02-06
+
+
+creation",structure,-89.552668,-89.269626,43.144113,43.032944,"Shapefile
+
+
+1.0","[u'https://gisdata.wisc.edu/public/Madison_City_FireStations_2017.zip', u'https://data-cityofmadison.opendata.arcgis.com/']","[<keyword>\n<gco:CharacterString>City of Madison</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Point</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Fire stations, Fire houses, Firehouses, Firestations</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+43551278-BD07-4089-871B-0E27A20F77D8,"Golf Courses City of Madison, WI 2017",This data layer represents City of Madison golf courses in 2017. [Location of the City of Madison Golf Courses.],City of Madison Parks Department,"2017-02-06
+
+
+creation",society,-89.468124,-89.247051,43.069386,43.030478,"Shapefile
+
+
+1.0","[u'https://gisdata.wisc.edu/public/Madison_City_Golf_Courses_2017.zip', u'https://data-cityofmadison.opendata.arcgis.com/']","[<keyword>\n<gco:CharacterString>City of Madison</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Golf courses, Links</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+3023AC05-5358-43A6-9557-0B9833353371,"Greenways City of Madison, WI 2017","This data layer represents greenways in the City of Madison, Wisconsin in 2017. A greenway is a strip of undeveloped land near an urban area, set aside for recreational use or environmental protection.",City of Madison Engineering,"2017-02-06
+
+
+creation",environment,-89.559114,-89.251925,43.163785,43.001455,"Shapefile
+
+
+1.0","[u'https://gisdata.wisc.edu/public/Madison_City_Greenways_2017.zip', u'https://data-cityofmadison.opendata.arcgis.com/']","[<keyword>\n<gco:CharacterString>City of Madison</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Line</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Environmental policy</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+9BEEE2CF-2BF0-4C08-B673-8D53BABC7A6D,"Libraries City of Madison, WI 2017","This data layer represents public library locations in the City of Madison, Wisconsin in 2017. [Locations of City of Madison Libraries]",City of Madison,"2017-02-06
+
+
+creation",structure,-89.528063,-89.235518,43.184939,42.997376,"Shapefile
+
+
+1.0","[u'https://gisdata.wisc.edu/public/Madison_City_Libraries_2017.zip', u'https://data-cityofmadison.opendata.arcgis.com/']","[<keyword>\n<gco:CharacterString>City of Madison</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Point</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Libraries, Public institutions</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+F3351905-DF29-4F5A-8CD8-5F35ADAA431D,"Local Historic Districts City of Madison, WI 2017","This data layer represents local historic districts in the City of Madison, Wisconsin in 2017. [City of Madison Local Historic Districts.This data layer is used by the City of Madison Historic Districts and Landmarks, Zoning Districts and Development Information applications.]",City of Madison Planning,"2017-08-15
+
+
+creation",boundaries,-89.423807,-89.355448,43.088169,43.067011,"Shapefile
+
+
+1.0","[u'https://gisdata.wisc.edu/public/Madison_City_Local_Historic_Dist_2017.zip', u'https://data-cityofmadison.opendata.arcgis.com/']","[<keyword>\n<gco:CharacterString>City of Madison</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Historic districts, Historic neighborhoods, Historic preservation districts</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+F7FE2FDE-5D17-4BE5-8E16-88CB9D553175,"Bus Routes (Metro Transit) City of Madison, WI 2018","This data layer represents Madison Metro Transit Bus Routes in the City of Madison, Wisconsin in 2018. [Metro Transit Bus Routes (simplified to one feature per route number). Developed from GTFS.]",City of Madison - Metropolitan Planning Organization (MPO),"2017-02-06
+
+
+creation",transportation,-89.564628,-89.260445,43.158324,42.987241,"Shapefile
+
+
+1.0","[u'https://gisdata.wisc.edu/public/Madison_City_MetroTransit_Bus_Routes_2017.zip', u'https://data-cityofmadison.opendata.arcgis.com/']","[<keyword>\n<gco:CharacterString>City of Madison</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Line</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Bus travel, Bus routes</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+8022293C-16EA-454F-A8BE-AE0A2D6638F3,"Neighborhood Associations City of Madison, WI 2017","This data layer represents neighborhood association boundaries for the City of Madison, Wisconsin in 2017. [Location of City of Madison Neighborhood Associations. Boundaries are self reported and not determined by the City of Madison.This data layer is used by the City of Madison Neighborhood Associations and Development Information applications.]",City of Madison,"2017-02-06
+
+
+creation",boundaries,-89.571665,-89.246967,43.16123,43.001347,"Shapefile
+
+
+1.0","[u'https://gisdata.wisc.edu/public/Madison_City_Neighborhood_Assoc_2017.zip', u'https://data-cityofmadison.opendata.arcgis.com/']","[<keyword>\n<gco:CharacterString>City of Madison</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Neighborhoods, Neighborhood associations, Citizen associations</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+BECE9EAD-657F-45F3-AC21-AD83A9460390,"Parks City of Madison, WI 2017","This data layer represents parks for the City of Madison, Wisconsin in 2017.",City of Madison Parks Department,"2017-02-06
+
+
+creation",society,-89.566792,-89.247011,43.173605,42.997962,"Shapefile
+
+
+1.0","[u'https://gisdata.wisc.edu/public/Madison_City_Parks_2017.zip', u'https://data-cityofmadison.opendata.arcgis.com/']","[<keyword>\n<gco:CharacterString>City of Madison</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Parks, Open spaces</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+14D6CC09-5550-4C49-A9B9-7907A88B0B1B,"Police Stations City of Madison, WI 2017","This data layer represents police station locations in the City of Madison, Wisconsin in 2017. [Location of City of Madison Police Stations]",City of Madison,"2017-02-06
+
+
+creation",structure,-89.497716,-89.285354,43.129739,43.033848,"Shapefile
+
+
+1.0","[u'https://gisdata.wisc.edu/public/Madison_City_PoliceStations_2017.zip', u'https://data-cityofmadison.opendata.arcgis.com/']","[<keyword>\n<gco:CharacterString>City of Madison</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Point</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Police stations</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+D7438942-30BF-4565-A095-53E7A61159BF,"Polling Places City of Madison, WI 2017","This data layer represents polling places in the City of Madison, Wisconsin in 2017.",City of Madison Clerk's Office,"2017-02-06
+
+
+creation",structure,-89.554164,-89.263872,43.156658,43.009517,"Shapefile
+
+
+1.0","[u'https://gisdata.wisc.edu/public/Madison_City_PollingPlaces_2017.zip', u'https://data-cityofmadison.opendata.arcgis.com/']","[<keyword>\n<gco:CharacterString>City of Madison</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Point</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polling stations, Voting places, Voting stations</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+0EE385E3-FC73-4F56-8890-595D81EDF3C3,"Railroads City of Madison, WI 2017","This data layer represents railroads in the City of Madison, Wisconsin in 2017. [Railroads. Enhanced WisDOT data set.]",City of Madison - Metropolitan Planning Organization (MPO),"2017-02-06
+
+
+creation",transportation,-89.837908,-89.008103,43.294895,42.844341,"Shapefile
+
+
+1.0","[u'https://gisdata.wisc.edu/public/Madison_City_Railroads_2017.zip', u'https://data-cityofmadison.opendata.arcgis.com/']","[<keyword>\n<gco:CharacterString>City of Madison</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Line</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Lines, Railroad</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Rail industry</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Rail lines</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Rail transportation</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+880F7C16-5588-40BA-BB9C-67A136AF884D,"Storm Sewer Pipes City of Madison, WI 2017","This data layer represents storm sewer pipes in the City of Madison, Wisconsin in 2017.",City of Madison Engineering,"2017-02-06
+
+
+creation",utilitiesCommunication,-89.571868,-89.25059,43.168699,43.000744,"Shapefile
+
+
+1.0","[u'https://gisdata.wisc.edu/public/Madison_City_StormSewer_Pipes_2017.zip', u'https://data-cityofmadison.opendata.arcgis.com/']","[<keyword>\n<gco:CharacterString>City of Madison</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Line</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Sewers, Storm</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Storm drainage systems</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Storm drains</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Surface water sewers</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+C1AC6F28-364A-4A8E-928F-784F4D9F101B,"Surface Parking Lots City of Madison, WI 2017",This data layer represents surface parking lots in the City of Madison in 2017.,City of Madison Parking Utility,"2017-02-06
+
+
+creation",society,-89.417902,-89.375164,43.0772,43.064825,"Shapefile
+
+
+1.0","[u'https://gisdata.wisc.edu/public/Madison_City_Surface_ParkingLots_2017.zip', u'https://data-cityofmadison.opendata.arcgis.com/']","[<keyword>\n<gco:CharacterString>City of Madison</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Car lots (Parking lots)</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Car parks (Parking lots)</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Lots, Car (Parking lots)</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Lots, Parking</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Parks, Car (Parking lots)</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
+2E94B2DD-8D5E-4836-B33A-B13CA197F6C8,"Municipal Boundary City of Madison, WI 2017","This data layer represents the municipal boundary of the City of Madison, Wisconsin in 2017.",City of Madison Engineering,"2017-09-07
+
+
+publication",boundaries,-89.571455,-89.24678,43.17202,42.998147,"Shapefile
+
+
+1.0","[u'https://gisdata.wisc.edu/public/Madison_CityLimit_2017.zip', u'https://data-cityofmadison.opendata.arcgis.com/']","[<keyword>\n<gco:CharacterString>City of Madison</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Wisconsin</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Polygon</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Cities and towns</gco:CharacterString>\n</keyword>, <keyword>\n<gco:CharacterString>Downloadable Data</gco:CharacterString>\n</keyword>]"
